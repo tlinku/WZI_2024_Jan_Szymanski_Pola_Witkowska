@@ -11,6 +11,24 @@ We differentiate two primary user groups:
 
 2. **Players looking for bargains**. Lots of players just want to buy a game at its most attractive price, even if they don't usually use multiple platforms. They will certainly benefit from the OG Searcher's feature that gives the user the ability to compare prices of games on different launchers and to check the game's price history. Comparing prices is a good way to find the best place to buy any given game, while checking the price history is a great feature for deciding whether or not now is a good time to make a purchase.
 
+### **Examples of user personas**
+
+**Name**: Alex Johnson\
+**Age**: 28\
+**Occupation**: Software Engineer\
+**Location**: San Francisco, CA\
+**Gaming Platforms**: Steam, GOG, Epic Games Store\
+**Gaming Preferences**: RPGs, Indie Games, Strategy Games\
+Alex represents the "Cross-platform gamers" user group, who will benefit from the OG Searcher's features for managing game libraries and comparing prices.
+
+**Description**: Alex is a 28-year-old software engineer who has been an avid gamer since childhood. He owns multiple gaming platforms, including Steam, GOG, Epic Games Store, and Xbox PC Launcher. Due to his busy work schedule, Alex often finds it challenging to keep track of all the games he owns across different platforms.
+
+**Goals**:
+- To easily manage and access his extensive game library across multiple platforms.
+- To find the best deals and discounts on games he wants to purchase.
+- To check the price history of games to make informed purchasing decisions.
+
+
 ### Summary and use cases
 
 To summarize, we differentiate three different primary use cases:
