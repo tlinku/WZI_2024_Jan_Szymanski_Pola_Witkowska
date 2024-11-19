@@ -11,22 +11,22 @@ We differentiate two primary user groups:
 
 2. **Players looking for bargains**. Lots of players just want to buy a game at its most attractive price, even if they don't usually use multiple platforms. They will certainly benefit from the OG Searcher's feature that gives the user the ability to compare prices of games on different launchers and to check the game's price history. Comparing prices is a good way to find the best place to buy any given game, while checking the price history is a great feature for deciding whether or not now is a good time to make a purchase.
 
-### **Examples of user personas**
+### **Examples of User Personas**
 
 **Name**: Alex Johnson\
-**Age**: 28\
-**Occupation**: Software Engineer\
-**Location**: San Francisco, CA\
+**Age**: 25\
 **Gaming Platforms**: Steam, GOG, Epic Games Store\
 **Gaming Preferences**: RPGs, Indie Games, Strategy Games\
 Alex represents the "Cross-platform gamers" user group, who will benefit from the OG Searcher's features for managing game libraries and comparing prices.
 
-**Description**: Alex is a 28-year-old software engineer who has been an avid gamer since childhood. He owns multiple gaming platforms, including Steam, GOG, Epic Games Store, and Xbox PC Launcher. Due to his busy work schedule, Alex often finds it challenging to keep track of all the games he owns across different platforms.
+**Description**: Alex is a software engineer who has been an avid PC gamer since childhood. He is mostly a Steam user, owning over 400 games on that platform, but he also claims free games from Epic games store. Moveover, he likes retro games a lot, so he has bought quite a few retro game bundles for GOG, but some other are on Steam as well. All of that sums up to over 600 games, across 3 different platforms.
 
 **Goals**:
-- To easily manage and access his extensive game library across multiple platforms.
-- To find the best deals and discounts on games he wants to purchase.
-- To check the price history of games to make informed purchasing decisions.
+- His time for gaming is limited, and he want's to waste as little of it as possible on looking and checking.
+- He prefers to buy games on Steam if possible to make it simpler, but if some games are significantly cheaper on other platform, he is willing to purchase it elsewere.
+
+**How our platforms helps him achieve these goals:**\
+Both of these goals are our core features, and he can easily, in browser, check his library and check if any of his wanted games are on sale.
 
 
 ### Summary and use cases
