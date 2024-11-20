@@ -1,4 +1,4 @@
-# OG Search
+# OG Search - Open Game Search
 
 ## Part One - Project Vision and Scope
 
