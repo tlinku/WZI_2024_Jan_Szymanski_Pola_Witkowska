@@ -45,7 +45,7 @@ Michalina represents the "Players looking for deals" user group, who will benefi
 - She only uses two gaming platforms, and isn't willing to switch to any other ones, meaning that she would rather wait for a sale on her prefered platforms, than buy a game elsewhere.
 
 **How our platform helps her achieve these goals:**\
-Our platform will allow her to 
+Our platform will allow her to make thoughtout purchases and save some money on video games.
 
 ---
 
